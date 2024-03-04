@@ -1,0 +1,19 @@
+{
+  "name": "ples nerd",
+  "short_name": "ples nerd",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000080",
+  "theme_color": "#000080",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/plesnerd192.png",
+      "type": "image/png", "sizes": "192x192"
+    },
+    {
+      "src": "assets/plesnerd512.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+html {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right bottom, #00a1d8, #00a1d8);
+}
+
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-family: '8BIT WONDER', sans-serif;
+  font-size: 13px;
+}
+
+h1 {
+  color: #e63b7a;
+  font-size: 50px;
+  font-family: '8BIT WONDER', sans-serif;
+}
+
+h2 {
+  color: #b92d5d;
+  font-size: 24px;
+  font-family: '8BIT WONDER', sans-serif;
+}
+
+img {
+  cursor: pointer;
+}
+
+#shop {
+  margin-top: 32px;
+}
+
+.option {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  margin: 16px;
+  padding: 16px;
+  background-color: #b92d5d;
+  border-radius: 8px;
+}
+
+.option h3 {
+  color: #fff;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.option p {
+  color: #fff;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.option button {
+  width: 100px;
+  padding: 8px;
+  font-size: 16px;
+  background-color: #333333;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.title-container {
+  display: flex;
+  align-items;
+}
+
+#splash-text {
+  color: yellow;
+  padding: 2px 8px;
+  margin-left: 310px;
+  margin-top: -15px;
+  font-size: 15px;
+  position: absolute;
+  display:block;
+  -webkit-transform: rotate(-20deg);
+  transform: rotate(-20deg);
+}
