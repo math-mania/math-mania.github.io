@@ -1,0 +1,1 @@
+alert("Roblox is in a very unstable stage currently! If you see random logos and images, scroll down further and click the 'play roblox in your browser' button. You may need to refresh at times, so bare with me. -bluebay ")
